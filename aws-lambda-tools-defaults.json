@@ -1,0 +1,21 @@
+
+{
+    "region" : "ap-south-1",
+    "profile" : "siddhantBhandari",
+    "configuration" : "Release",
+    "framework"     : "net6.0",
+    "function-name" : "DBConWebApp",
+    "package-type"  : "Zip",
+    "function-handler" : "DBConWebApp",
+    "function-memory-size" : 256,
+    "function-role"        : "arn:aws:iam::824924869734:role/lambda_exec_DBConWebApp",
+    "function-timeout"     : 30,
+    "function-runtime"     : "dotnet6",
+    "function-architecture" : "x86_64",
+    "function-subnets"      : "",
+    "function-security-groups" : "",
+    "tracing-mode"             : "PassThrough",
+    "environment-variables"    : "",
+    "image-tag"                : "",
+    "function-description"     : ""
+}
